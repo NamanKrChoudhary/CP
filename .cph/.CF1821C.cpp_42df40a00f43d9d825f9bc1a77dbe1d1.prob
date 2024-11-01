@@ -1,0 +1,1 @@
+{"name":"Local: CF1821C","url":"c:\\Users\\Admin\\Dropbox\\CP\\CP\\CF1821C.cpp","tests":[{"id":1730368687765,"input":"5\nabacaba\ncodeforces\noooooooo\nabcdef\nmewheniseearulhiiarul","output":"1\n3\n0\n2\n4\n"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Dropbox\\CP\\CP\\CF1821C.cpp","group":"local","local":true}
