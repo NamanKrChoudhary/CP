@@ -1,0 +1,1 @@
+{"name":"Local: CF1746C1300","url":"c:\\Users\\Admin\\Dropbox\\CP\\CP\\CF1746C1300.cpp","tests":[{"id":1731055676972,"input":"4\n4\n1 2 3 4\n5\n1 3 2 4 5\n3\n2 3 1\n1\n1\n","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Dropbox\\CP\\CP\\CF1746C1300.cpp","group":"local","local":true}
