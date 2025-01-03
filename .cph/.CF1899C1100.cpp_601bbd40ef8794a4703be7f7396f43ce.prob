@@ -1,0 +1,1 @@
+{"name":"Local: CF1899C1100","url":"c:\\Users\\Admin\\Dropbox\\CP\\CP\\CF1899C1100.cpp","tests":[{"id":1733076864918,"input":"2\n6\n-1 4 -1 0 5 -4\n3\n101 -99 101\n","output":"8 \n101"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\Admin\\Dropbox\\CP\\CP\\CF1899C1100.cpp","group":"local","local":true}
